@@ -1,19 +1,29 @@
 /* Write your CSS here */
+
 .container {
   background-color: #1e293b;
   background-size: cover;
   height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .heading {
   color: #f0bb03;
   font-family: 'Bree Serif';
+  font-size: 62px;
 }
 .paragraph {
-  color: #ffffff;
+  color: white;
   font-family: 'Bree Serif';
+  font-size: 22px;
 }
 .btn-style {
-  background-color: #ffffff;
-  color: black;
-  padding: 5px;
+  font-family: 'Bree Serif';
+  padding: 10px;
+  border: opx none white;
+  border-radius: 10px;
+  cursor: pointer;
 }
