@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+.btn-style {
+  background-color: #ffffff;
+  color: black;
+  padding: 5px;
+}
